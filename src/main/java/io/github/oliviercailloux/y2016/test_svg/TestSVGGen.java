@@ -1,4 +1,4 @@
-package io.github.oliviercailloux.y2016.test_svg_gen;
+package io.github.oliviercailloux.y2016.test_svg;
 
 import java.awt.Color;
 import java.awt.Dimension;
